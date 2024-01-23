@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Coding!
 - 💞️ I’m looking to collaborate on Coding!
 - 📫 How to reach me ( JavaScript )
-- 😄 Pronouns: Java
+- 😄 Pronouns: Hippopotomus
 - ⚡ Fun fact: Coding
 
 <!---
